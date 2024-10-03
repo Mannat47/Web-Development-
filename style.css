@@ -134,10 +134,8 @@ h4{
   padding: 60px 0;
 }
 .col2 .offer-img{
-  margin:20px 20px 20px 20px;
-  padding:500px 500px 500px 500px;
-  height: 500px;
-  width:500px
+  padding:10px
+  width:100px
 }
 small{
   color: #555;
